@@ -17,6 +17,7 @@
     { slug: 'settled', file: 'settled.html', label: 'The settled floor' },
     { slug: 'excursions', file: 'excursions.html', label: 'The excursion record' },
     { slug: 'micronova', file: 'micronova.html', label: 'The claim' },
+    { slug: 'galaxy', file: 'galaxy.html', label: 'The galaxy runs on explosions' },
     { slug: 'mechanism', file: 'mechanism.html', label: 'The chain' },
     { slug: 'dismissals', file: 'dismissals.html', label: 'The dismissals' },
     { slug: 'objections', file: 'objections.html', label: 'What actually lands' },
