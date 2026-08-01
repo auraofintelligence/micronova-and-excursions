@@ -45,8 +45,8 @@ Full rung-by-rung ledger in [`03-the-excursion-record.md`](03-the-excursion-reco
 | Norwegian-Greenland Sea ~64.5 ka | **established** |
 | Blake ~115-120 ka | **established** |
 | Lake Mungo | real regional archaeomagnetic record, published ~30 ka, global status contested |
-| Michoacan ~30 ka | not established as an excursion |
-| Hilina Pali ~18.5 ka | **no directional or palaeointensity evidence** (Liu et al. 2018) |
+| Michoacan ~30 ka | not in the literature under any status |
+| Hilina Pali ~19 ka | **proposed, unconfirmed, actively contested.** For: Ukrainian loess (Nawrocki et al. 2018), Polar Ural lake cores. Against: Black Sea (Liu et al. 2018), Drake Passage (Nowaczyk et al. 2025). Published Comment and Reply on reinforcement syndrome. |
 | Gothenburg ~12 ka | **not sustained** |
 | "Noah" ~6 ka | inferred from proxies, not a dated excursion |
 

@@ -40,7 +40,7 @@ What is actually meant is usually "there is no evidence for the *mechanism*", wh
 
 ### 6. "There's no 12,000-year cycle in the record."
 
-**Nearly right, and worth stating properly.** The cadence is not established, and the excursion ladder does not survive rung-by-rung checking ([`03-the-excursion-record.md`](03-the-excursion-record.md)). But "no cycle has been demonstrated" and "the record shows there is no cycle" are different claims, and only the first is supportable. Palaeo records are sparse and dating uncertainty grows with depth.
+**Nearly right, and usually said in a way that is not.** The cadence is not established. But most of the rungs in the ladder are real published proposals sitting on a known list of unconfirmed excursions, so "there is nothing there" is wrong ([`03-the-excursion-record.md`](03-the-excursion-record.md)). And "no cycle has been demonstrated" is a different claim from "the record shows there is no cycle"; only the first is supportable, because palaeo records are sparse and dating uncertainty grows with depth.
 
 ### 7. "That's just the Younger Dryas impact hypothesis, which was debunked."
 

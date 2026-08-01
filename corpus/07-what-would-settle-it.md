@@ -26,7 +26,7 @@ Marchitelli et al. (2020, *Scientific Reports*) reported a correlation between s
 ## Tests that would weaken it
 
 **1. Blind redating of the empty rungs.**
-Take the 30 ka, 24 ka, 18 ka and 12 ka slots and have them assessed by people who are not told what the answer is meant to be. If Gothenburg and Hilina Pali stay unsupported under a dedicated search, the ladder is finished as evidence.
+Take the 30 ka, 24 ka, 18 ka and 12 ka slots and have them assessed by people who are not told what the answer is meant to be. Hilina Pali is the obvious first target because it is already live: Ukrainian loess and Polar Ural lake cores against Black Sea and Drake Passage nulls, with a published Comment and Reply about reinforcement syndrome in between. If it settles negative under a dedicated search, the rung the ladder needs most after Gothenburg is gone.
 
 **2. Continued field-decay linearity.**
 The claim needs acceleration. The gyre-driven decay model predicts continued decay at roughly the present rate for decades. If the dipole keeps falling near 5% per century and the north pole keeps decelerating through the 2030s, the "happening now" case runs out of instrument readings.

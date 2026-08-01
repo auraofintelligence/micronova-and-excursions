@@ -26,7 +26,7 @@ So this repo is two things:
 |---|---|
 | `index.html` | The five layers the question splits into, the four things science grants, the nine rooms, where it lands |
 | `settled.html` | Miyake events, superflares, the excursion record, measured weakening, the word itself |
-| `excursions.html` | The eight-rung cadence checked rung by rung. Two hold. |
+| `excursions.html` | The eight-rung cadence checked rung by rung. Two accepted, three proposed but unconfirmed, two absent. |
 | `micronova.html` | The claim at full strength, plus the word's history and the mechanism gap |
 | `mechanism.html` | Six links from galactic sheet to great waves, each labelled, weakest one named |
 | `dismissals.html` | Fourteen stock replies and what is wrong with each |
@@ -79,7 +79,12 @@ Shared machinery inherited from Grain by Grain: `assets/js/cinematic.js` (SEQUEN
 - Miyake events: five well confirmed, 12,350 BCE candidate the largest known.
 - Field decay: ~9% since 1840, ~5% per century. Gyre-driven decay, *Nature Communications* 2016.
 - Pole motion: peak 55-60 km/yr, now ~35 km/yr, largest recorded deceleration, WMM 2025.
-- Excursion inventory: Laschamps, Mono Lake, Norwegian-Greenland Sea, Blake established. Hilina Pali unsupported (Liu et al. 2018). Gothenburg not sustained. Michoacan not in the standard inventories; the underlying Mexican work is a palaeosecular variation study, not an excursion claim. Lake Mungo is a real archaeomagnetic record published at ~30 ka, not 24 ka, with its global status contested.
+- Excursion inventory: ~13 well documented across the Brunhes; five most studied are Mono Lake, Laschamp, Blake, Iceland Basin, Pringle Falls. Laschamp 42.2-41.5 ka, field down as much as 90%. Mono Lake ~34.5 ka, accepted, with a live type-locality dispute (Kent et al. 2002 argued the Wilson Creek record is Laschamp misdated).
+- **Proposed but not accepted** (Channell et al. 2020, last 30 kyr): Sterno-Etrussia ~2.7 ka, Tianchi ~10 ka, Gothenburg ~12 ka, Iberian Margin MD01-2444 ~13 ka, Hilina Pali ~19 ka, Lake Mungo ~26 ka, Rockall ~26 ka. Reasons given for holding them out: remagnetisation, sediment disturbance, facies changes, reinforcement syndrome.
+- Hilina Pali is **actively contested**, not dead: Nawrocki et al. 2018 (Boreas, Ukrainian loess c. 18 ka) + published Comment on reinforcement syndrome + Reply; Liu et al. 2018 (EPSL 492, Black Sea, negative); Nowaczyk et al. 2025 (Drake Passage, negative but allows regional relevance or too-short duration); Haflidason et al. 2022 (Polar Ural lakes, distinct event ~20 ka); Scheidt et al. 2025 (JGR, Polar Urals, 23.6-14.8 ka cal BP).
+- Lake Mungo: Barbetti and McElhinny 1976 found TWO episodes, main 30,780+/-520 to 28,140+/-370 14C BP and a second ~26,000 14C BP; the reviews carry it at ~26 ka, so the ladder's 24 ka rung is about right. Original ages are uncalibrated radiocarbon.
+- Michoacan: no excursion of that name at any status. TMVB work proposes excursions at ~1 Ma (intra-Jaramillo); the last-30-kyr Mexican records are palaeosecular variation.
+- 48 ka: nothing proposed. The Olby/Laschamps dating spread (Plenier et al. 2007, Olby ~37 ka vs Laschamps flows 41.9 ka) is about the duration of one event, not a second one.
 - Adams Event: Cooper et al. *Science* 2021, formal Technical Comments and authors' response.
 - Younger Dryas impact: Hiawatha ~58 Ma, platinum spike reattributed, two retractions (2025, 2026).
 - 1,500-year Bond cycle: Obrochta et al. 2012 re-examination.
@@ -96,4 +101,20 @@ Shared machinery inherited from Grain by Grain: `assets/js/cinematic.js` (SEQUEN
 
 ## 6. Log
 
-- **2026-08-01 (first build):** Repo created off the Grain by Grain chassis at Luke's request, after he flagged being tired of defending the micronova against stock dismissals. Both Davidson books read in full (*The Next End of the World*, 109 pp; *Observer Supplement 2022/2023*, 112 pp) rather than worked from priors, per the "foundation reading" instruction. Mainstream literature checked separately on every load-bearing claim. Built `AGENTS.md` plus a ten-file corpus, then 14 pages. Register extended with UNSUPPORTED. Self-gate pass: zero em dashes, AU spelling, no backstage self-reference, no absolutes as rhetoric, all internal links resolve, all pages 200, no console errors, no horizontal overflow at 375 or 1280, ladder collapses correctly on mobile. Cross-linked from `grain-by-grain/threats.html` micro-nova card. The rung-by-rung check was the build's main finding: two of eight rungs hold, and the evenness of the cadence is a property of the list rather than the record, which is conceded on the site before a sceptic can say it.
+- **2026-08-01 (first build):** Repo created off the Grain by Grain chassis at Luke's request, after he flagged being tired of defending the micronova against stock dismissals. Both Davidson books read in full (*The Next End of the World*, 109 pp; *Observer Supplement 2022/2023*, 112 pp) rather than worked from priors, per the "foundation reading" instruction. Mainstream literature checked separately on every load-bearing claim. Built `AGENTS.md` plus a ten-file corpus, then 14 pages. Register extended with UNSUPPORTED. Self-gate pass: zero em dashes, AU spelling, no backstage self-reference, no absolutes as rhetoric, all internal links resolve, all pages 200, no console errors, no horizontal overflow at 375 or 1280, ladder collapses correctly on mobile. Cross-linked from `grain-by-grain/threats.html` micro-nova card. The rung-by-rung check was the build's main finding.
+
+- **2026-08-01 (research correction pass):** Luke pushed back on the ladder verdicts with "don't rely on your memory, do some research into these", and he was right to. The first pass leaned on search-result summaries. Going to the palaeomagnetic literature changed four of the eight rungs and reversed the headline.
+
+  **What changed, and all four corrections run in the ladder's favour:**
+  - **Hilina Pali** went from "no evidence, this rung is empty" to **actively contested**. Nawrocki et al. 2018 published it in Ukrainian loess at c. 18 ka; there is a formal Comment accusing it of reinforcement syndrome and a Reply; Liu et al. 2018 and Nowaczyk et al. 2025 are negative, and the 2025 null explicitly allows that the event was regional or too brief to register. Polar Ural lake cores recorded a distinct event near 20 ka and are being worked on now.
+  - **Lake Mungo** went from "misdated by six thousand years" to **correctly placed**. Barbetti and McElhinny 1976 found two episodes, and the standard reviews carry the younger one at ~26 ka. My "published age is ~30 ka" was reading only the first episode.
+  - **Gothenburg** went from "not sustained" to **proposed and never confirmed**, with regional claims in Barents Sea sediments and as an Allerod marker in the Central Russian Upland.
+  - **The framing** went from "two of eight hold" to "two accepted, three published-but-unconfirmed, two with nothing behind them". Three ladder rungs sit on Channell et al. (2020)'s list of proposed excursions. They are not invented, and "there is nothing there" is wrong.
+
+  **What survived:** Michoacan (no such excursion at any status) and the 48 ka rung (nothing proposed there). Laschamp and Mono Lake accepted.
+
+  **The cadence critique got sharper rather than weaker**, and this is the better version to carry: the full set of excursions proposed for the last 30 kyr lands at ~2.7, 10, 12, 13, 19, 26 and 26 ka. That is a scatter with two candidates nearly on top of each other, not a beat. You cannot accept the unconfirmed events that fill the ladder and reject the unconfirmed events that break it. One standard of proof, applied to all of them.
+
+  Propagated through `excursions.html`, `settled.html`, `index.html`, `dismissals.html`, `objections.html`, `sitemap.html`, `sources.html`, `AGENTS.md` and corpus files 02, 03, 05, 06, 07, 08, 09, 10. Also replaced the favicon, which had been a straight copy of Grain by Grain's sand-strata mark: now a gold sun inside a shed shell, cradled by two teal field arcs, so the two sites are distinguishable in a tab strip.
+
+  **Lesson worth keeping:** on this corpus the first-pass verdicts were systematically harsher than the literature supports, in exactly the direction [[note-to-the-next]] warns about. Search-result summaries flatten "proposed but unconfirmed" into "unsupported". Those are different words and the difference is the whole argument.

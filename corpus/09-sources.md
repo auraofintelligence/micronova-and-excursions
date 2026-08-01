@@ -40,7 +40,15 @@
 |---|---|
 | Cooper et al., "A global environmental crisis 42,000 years ago" | *Science* (19 Feb 2021). The "Adams Event" paper. |
 | Technical Comments on the above | *Science* doi:10.1126/science.abh1878 (Picin et al.); authors' response doi:10.1126/science.abh3655 |
-| Liu et al. (2018), excursion review | finds no support for Hilina Pali |
+| Channell et al. (2020) | The list of excursions proposed for the last 30 kyr and not accepted into the inventory: Sterno-Etrussia ~2.7 ka, Tianchi ~10 ka, Gothenburg ~12 ka, Iberian Margin core MD01-2444 ~13 ka, Hilina Pali ~19 ka, Lake Mungo ~26 ka, Rockall ~26 ka |
+| Liu et al. (2018), *EPSL* 492, 174-185 | 20-15 ka Black Sea record, "no evidence for the 'Hilina Pali excursion'?" |
+| Nawrocki et al. (2018), *Boreas* | Hilina Pali in western Ukrainian loess at c. 18 ka, with possible self-reversal |
+| Comment and Reply on the above | "Is the Hilina Pali palaeomagnetic excursion becoming another example of the reinforcement syndrome?" |
+| Scheidt et al. (2025), *JGR Solid Earth* | Polar Ural lake cores on the proposed Hilina Pali, 23.6-14.8 ka cal BP. doi:10.1029/2025JB032561 |
+| Haflidason et al. (2022), *J. Quaternary Science* | Polar Ural lakes, a distinct inclination event about 20 ka. doi:10.1002/jqs.3391 |
+| Morner (1977), *Quaternary Research* | "The Gothenburg Magnetic Excursion", the original proposal |
+| Kent et al. (2002), *EPSL* 197, 151 | "Laschamp Excursion at Mono Lake?", the type-locality dating dispute |
+| Plenier et al. (2007), *EPSL* | Origin and age of the directions recorded during the Laschamp event, Chaine des Puys |
 | Barbetti and McElhinny, "The Lake Mungo geomagnetic excursion" | *Phil. Trans. R. Soc. A* (1976); and the source-model follow-ups in *Nature* (1977) |
 | Gonzalez et al., "Palaeosecular variation in Central Mexico over the last 30000 years" | *Geophys. J. Int.* 130, 201 (1997). The Michoacán-Guanajuato record. |
 | Marchitelli et al., "On the correlation between solar activity and large earthquakes worldwide" | *Scientific Reports* 10, 11495 (2020), plus Matters Arising responses |

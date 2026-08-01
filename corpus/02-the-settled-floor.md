@@ -45,10 +45,14 @@ Three excursions in the last 70,000 years are well established:
 | Excursion | Age | Status |
 |---|---|---|
 | Norwegian-Greenland Sea | ~64.5 ka | established |
-| **Laschamps** | ~41 ka | best documented on Earth |
+| **Laschamp** | **42.2-41.5 ka** | best documented on Earth |
 | Mono Lake | ~34.5 ka | established |
 
-Laschamps is recorded in volcanic rocks and sediments from every continent, and the field dropped to a small fraction of its present strength during it. It has been reproduced in global field models (LSMOD.2, GGF100k) rather than resting on single-site records.
+About **13** excursions are well documented across the Brunhes chron (the last ~780 kyr). The five most studied are Mono Lake, Laschamp, Blake, Iceland Basin and Pringle Falls.
+
+During Laschamp the field weakened by as much as **90 per cent**. It is recorded in volcanic rocks and sediments from every continent, reproduced in global field models (LSMOD.2, GGF100k) rather than resting on single-site records, and it is the tie point everything between roughly 35 and 50 ka gets dated against.
+
+**The distinction that matters downstream:** an excursion being *proposed* is not the same as it being *accepted*. Channell et al. (2020) list seven proposed for the last 30 kyr that have not made it into the inventory, and three of them are rungs on the cadence ladder. See [`03-the-excursion-record.md`](03-the-excursion-record.md).
 
 **Why this is load-bearing:** the planet's magnetic shield is not a constant. It has failed, repeatedly, within the human era, and the record of it is mainstream palaeomagnetism.
 
