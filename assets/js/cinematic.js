@@ -19,6 +19,7 @@
     { slug: 'micronova', file: 'micronova.html', label: 'The claim' },
     { slug: 'galaxy', file: 'galaxy.html', label: 'The galaxy runs on explosions' },
     { slug: 'mechanism', file: 'mechanism.html', label: 'The chain' },
+    { slug: 'turning', file: 'turning.html', label: 'The Earth turning over' },
     { slug: 'dismissals', file: 'dismissals.html', label: 'The dismissals' },
     { slug: 'objections', file: 'objections.html', label: 'What actually lands' },
     { slug: 'numbers', file: 'numbers.html', label: 'The numbers' },
