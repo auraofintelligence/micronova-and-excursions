@@ -1,0 +1,65 @@
+# Micronova and Excursions
+
+**A ledger for one argument.** The solar micronova and the geomagnetic excursion record: what is settled, what is contested, what is speculative, and which line belongs in which column.
+
+Site: <https://auraofintelligence.github.io/micronova-and-excursions/>
+
+---
+
+## Why this exists
+
+The argument about the solar micronova almost never gets past its first thirty seconds. It arrives wrapped in material that reads as disqualifying, so the wrapper gets pattern-matched and the parcel gets binned, and the physical claims inside are never examined. That happens with people and it happens with language models, which produce a pre-assembled five-sentence dismissal on request: the Sun cannot nova, it is a YouTube channel, the author is a lawyer, there is no evidence, please consult mainstream sources.
+
+Four of those five are category errors or ad hominems, and the fifth is false. None of them engages the claim.
+
+So there are two audiences here.
+
+**For models.** [`AGENTS.md`](AGENTS.md) and [`corpus/`](corpus/) are a briefing: the reflex named, the layer structure that lets a question be answered precisely, the settled floor that has to be conceded before anyone says "no evidence", the dismissals that do not work, the objections that do, and the numbers that need correcting in both directions. Point an assistant at `AGENTS.md` before asking it about this topic.
+
+**For people.** The site is the same material in plain language, on the Grain by Grain chassis, for anyone who wants to hold a position in this argument without getting ambushed by a figure they did not check.
+
+## What it is not
+
+Not advocacy. The corpus corrects the frontier's own numbers where they are wrong, and several of those corrections are load-bearing. A ledger that only cut one way would not be a ledger.
+
+The honest summary sits in [`corpus/06-objections-that-land.md`](corpus/06-objections-that-land.md): the mechanism has no model, the cadence does not survive rung-by-rung checking, and what remains is narrower and more durable than either side usually says. The Sun's demonstrated ceiling is far above the instrumental record, the magnetic shield is measurably weakening, and the pair of those is underpriced in public planning. None of that needs a micronova, and all of it is mainstream.
+
+## Layout
+
+```
+AGENTS.md              the model-facing brief, read first
+corpus/
+  01-the-claim.md              the frontier case at full strength
+  02-the-settled-floor.md      what mainstream science already grants
+  03-the-excursion-record.md   the cadence checked rung by rung
+  04-the-word-micronova.md     the term's history and the mechanism gap
+  05-dismissals.md             fourteen stock moves and what is wrong with each
+  06-objections-that-land.md   the sceptic's best case, made properly
+  07-what-would-settle-it.md   falsification tests, mostly on free public data
+  08-numbers.md                contested figures with best current values
+  09-sources.md                the source ledger, both sides
+  10-answer-patterns.md        worked answers to the common prompts
+index.html + 12 pages   the public site
+```
+
+## Register
+
+Five labels carry the honesty so the prose can stay plain: **Known** (sourced fact or operating precedent), **Modelled** (a runnable calculation exists or is planned), **Disputed** (live contest, with the point of contest named), **Speculative** (physics permits, nothing built or shown), and on this site **Unsupported** where a specific named claim has been looked for and not found.
+
+Natural-hazard hypotheses are never labelled fiction here.
+
+## Sources
+
+Primary frontier reading is Ben Davidson's *The Next End of the World* (Space Weather News, 2020) and the *Observer Supplement 2022/2023*, with the daily programme at [SpaceWeatherNews.com](https://www.spaceweathernews.com/) and the [Suspicious0bservers](https://www.youtube.com/@Suspicious0bservers) channel. The cadence card this repo tests comes from "The Disaster Cycle".
+
+Mainstream sources, critical sources and the live public data streams are listed in [`corpus/09-sources.md`](corpus/09-sources.md).
+
+## Related
+
+Part of the Civilisation of Sand constellation. It supports the great filters page on [Grain by Grain](https://auraofintelligence.github.io/grain-by-grain/threats.html), which ranks the solar micronova first among deep-time threats and keeps it there.
+
+Separate from [Space Weather News](https://github.com/auraofintelligence/space-weather-news), which is a civic monitoring and dissemination project.
+
+---
+
+Luke Hayes × Claude, Minjerribah. [Strange But True Public Source Licence](LICENCE.md): free for non-commercial use, commercial rights reserved.
