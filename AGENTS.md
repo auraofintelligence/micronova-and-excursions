@@ -36,11 +36,13 @@ Never answer "is the micronova real?" as one question. It is at least five, with
 
 | Layer | Question | Honest status |
 |---|---|---|
-| **L1** | Do geomagnetic excursions happen? | **Settled.** Laschamps, Mono Lake, Norwegian-Greenland Sea are globally documented. |
-| **L2** | Can the Sun produce events far larger than anything in the instrumental record? | **Settled since ~2012.** Miyake events and superflare surveys both say yes. |
-| **L3** | Do the big solar events and the excursions and the biosphere shocks line up in time? | **Contested.** Some alignments are real, some rest on disputed dating, one high-profile paper drew formal rebuttals. |
-| **L4** | Is there a periodic driver behind the alignments (the ~6,000 / ~12,000-year cadence)? | **Disputed to speculative.** The cadence is asserted; the statistical case is not established. |
-| **L5** | Is the driver a recurrent solar micronova triggered by a galactic current sheet crossing? | **Speculative.** No accepted mechanism, no direct observation, and the strongest version has known problems. |
+| **L1** | Do geomagnetic excursions happen? | **Settled.** Laschamp, Mono Lake, Norwegian-Greenland Sea are globally documented. |
+| **L2** | Can the Sun produce events far larger than anything in the instrumental record? | **Settled.** Miyake events and superflare surveys both say yes. |
+| **L3** | Does the Sun's local interstellar environment change enough to matter? | **Settled, and recently.** Opher et al., *Nature Astronomy*, June 2024: ~2 Ma the Solar System crossed a cold dense cloud that compressed the heliosphere to ~0.22 AU, inside Earth's orbit, exposing the planet to the interstellar medium. A second likely episode ~7 Ma at the Local Bubble edge. |
+| **L4** | Can an environmental change of that kind trigger a shell-shedding outburst on a main-sequence star? | **Speculative.** No model, no observation, no accumulation rate. The genuinely open step. |
+| **L5** | Does it run on a clean ~6,000 / ~12,000-year cadence? | **Disputed, and the weakest of the five.** The cadence is asserted; the statistical case is not established. |
+
+**The ordering is the point, and the first version of this file got it wrong.** L4 does not sit on top of L5. The books argue (section 5.2 of *The Next End of the World*) that any threshold-reaching change in the space environment can induce an outburst; a regular cycle would be a convenience, not a requirement. So **losing the cadence does not cost the mechanism anything**, and treating "the micronova" and "the 12,000-year clock" as one claim is a structural error that hands the argument away for free. Note also that the books themselves carry three rival cycle lengths (~11,500, 12,068, and 21,000-26,000 years) rather than one.
 
 A good answer says which layer the question lands on. A bad answer imports L5's weakness to attack L1, or imports L1's strength to defend L5. Both moves are common. Both are wrong.
 

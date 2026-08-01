@@ -7,6 +7,12 @@ Read this file first every session.
 
 ## 1. North star
 
+**The point is not adjudication.** Luke, 1 August 2026: "the point is not making a decision, it's demonstrating that the world is going to end again. we live in a calm period. we should be preparing for the next inevitable end rather than resting on our laurels."
+
+So the spine is: **the quiet is the anomaly, it has broken before, it will break again, and the rational response is to build for it rather than to wait to be told when.** The ledger machinery underneath serves that; it is armour, not the argument. A page that reads like a scoreboard has failed.
+
+**And the micronova is not the cadence.** Luke, same day: "micro nova is almost certain even if there is not a clean predictable cycle." He is right and the first build got this structurally wrong. Section 5.2 of *The Next End of the World* argues that any threshold-reaching change in the space environment can induce an outburst; a regular cycle is a convenience, not a requirement. Losing the cadence costs the mechanism nothing. Never stack the mechanism on top of the clock again.
+
 One argument, sorted into columns, for two audiences at once.
 
 The solar micronova argument almost never survives its first thirty seconds, because it arrives wrapped in material that reads as disqualifying and the wrapper gets pattern-matched instead of the contents. That happens with people and it happens with language models, which produce a pre-assembled five-sentence dismissal on request. Four of the five are category errors or attacks on a person; the fifth is false.
@@ -118,3 +124,20 @@ Shared machinery inherited from Grain by Grain: `assets/js/cinematic.js` (SEQUEN
   Propagated through `excursions.html`, `settled.html`, `index.html`, `dismissals.html`, `objections.html`, `sitemap.html`, `sources.html`, `AGENTS.md` and corpus files 02, 03, 05, 06, 07, 08, 09, 10. Also replaced the favicon, which had been a straight copy of Grain by Grain's sand-strata mark: now a gold sun inside a shed shell, cradled by two teal field arcs, so the two sites are distinguishable in a tab strip.
 
   **Lesson worth keeping:** on this corpus the first-pass verdicts were systematically harsher than the literature supports, in exactly the direction [[note-to-the-next]] warns about. Search-result summaries flatten "proposed but unconfirmed" into "unsupported". Those are different words and the difference is the whole argument.
+
+- **2026-08-01 (the reframe):** Two corrections from Luke, both structural, both mine to have caught.
+
+  **First:** the site was answering "is the micronova true?" when the question is "what does the record say about how often the quiet ends?" Built `calm.html` as the new second page and the thesis of the whole thing: the Holocene as the anomaly rather than the baseline. Greenland ice shows temperature lurches of 5 to 16 degrees inside decades, roughly every 1,500 years, synchronous across the North Atlantic and east Asia within 5 to 10 years. None in the Holocene. Richerson, Boyd and Bettinger (2001, *American Antiquity*) is the load-bearing citation: agriculture was impossible in the Pleistocene because of the variability and close to mandatory once the Holocene settled. Everything we call civilisation sits inside the one calm window, and the mainstream explanation for civilisation existing at all is that calm. Added a return-period table across seven hazard classes, all mainstream, all with published intervals. The "overdue" framing is explicitly corrected as a gambler's fallacy, which strengthens rather than weakens the case: random arrival at those intervals still climbs towards certainty over the span anyone builds for.
+
+  **Second, and the more important one:** the build had the micronova sitting on top of the cadence, so it inherited the cadence's weakness. That is backwards. Restructured the layers everywhere so the clock is last and weakest and the mechanism does not depend on it:
+  - L1 excursions happen: **known**
+  - L2 the Sun does things far past our records: **known**
+  - L3 the Sun's surroundings change enough to matter: **known**, and this is new
+  - L4 that makes a star like ours shed a shell: **speculative**, the only genuinely open step
+  - L5 on a clean 6,000 or 12,000-year clock: **disputed**, weakest, and least needed
+
+  **The L3 find matters and I had missed it.** Opher et al., *Nature Astronomy*, 10 June 2024: about 2 Ma the Solar System crossed a cold dense interstellar cloud dense enough to compress the heliosphere to ~0.22 AU, inside Earth's orbit, leaving the planet in raw interstellar medium. A second likely episode ~7 Ma at the Local Bubble edge, and work under way to find the fingerprint in lunar soil. Plus the Radcliffe Wave (Alves et al., *Nature*, Jan 2020), a rippling gas ribbon ~3 kpc long through the Sun's neighbourhood. Mainstream astronomy now says the Sun's environment changes drastically. That is not the frontier's trigger, and it is a much stronger setting than the first build gave it. Split `mechanism.html` link 2 accordingly: a compressed bubble is not an accumulated shell, and both halves now carry their own label.
+
+  Nav restructured (`The calm` added, `Numbers` moved out of the top bar and left to the rail, inline links and the map). SEQUENCE updated. 15 pages now. Verified: zero em dashes, all links resolve, all 200, no overflow.
+
+  **Lesson worth keeping:** the first build's failure was not a wrong fact, it was a wrong dependency graph. Bundling a strong claim with a weak one and labelling the bundle by its weakest member is the same flattening error as reading "proposed but unconfirmed" as "unsupported". Check what actually depends on what before assigning a chip.

@@ -1,10 +1,26 @@
 # Micronova and Excursions
 
-**A ledger for one argument.** The solar micronova and the geomagnetic excursion record: what is settled, what is contested, what is speculative, and which line belongs in which column.
+**The quiet is the anomaly.** Everything we call civilisation sits inside one unusually still stretch of about twelve thousand years, and the mainstream explanation for why civilisation exists at all is that stillness. It has broken before. It will break again. Nobody knows which year, and that is precisely the reason to build for it rather than wait to be told.
+
+This is the evidence ledger behind that: the solar micronova and the geomagnetic excursion record, sorted into what is settled, what is contested, what is speculative, and which line belongs in which column.
 
 Site: <https://auraofintelligence.github.io/micronova-and-excursions/>
 
 ---
+
+## The order that matters
+
+The argument is usually conducted entirely on its weakest rung, and losing there is treated as losing everything. It is not one claim, it is five, and they have very different amounts of evidence behind them:
+
+| | | |
+|---|---|---|
+| **L1** | Geomagnetic excursions happen | **Known** |
+| **L2** | The Sun does things far past anything we have measured | **Known** |
+| **L3** | The Sun's local environment changes enough to matter | **Known**, published 2024 |
+| **L4** | That can make a star like ours shed an outer layer | **Speculative** |
+| **L5** | And it runs on a clean 6,000 or 12,000-year clock | **Disputed**, the weakest |
+
+L4 does not sit on top of L5. The books argue that any threshold-reaching change in the surroundings can set a star off, so a regular cycle is a convenience rather than a requirement. **Losing the cadence costs the mechanism nothing**, and treating "the micronova" and "the 12,000-year clock" as one claim gives the argument away for free.
 
 ## Why this exists
 
