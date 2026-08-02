@@ -24,6 +24,7 @@
     { slug: 'moon', file: 'moon.html', label: 'The Moon, and the assumption underneath' },
     { slug: 'stories', file: 'stories.html', label: 'The stories that lasted' },
     { slug: 'ages', file: 'ages.html', label: 'The ages, and why they all end' },
+    { slug: 'interference', file: 'interference.html', label: 'What we are doing to it ourselves' },
     { slug: 'dismissals', file: 'dismissals.html', label: 'The dismissals' },
     { slug: 'objections', file: 'objections.html', label: 'What actually lands' },
     { slug: 'numbers', file: 'numbers.html', label: 'The numbers' },
