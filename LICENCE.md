@@ -15,8 +15,8 @@ You may use a personal AI assistant to help read, explain or adapt the repo for 
 
 If you use or adapt the work, give clear credit:
 
-Based on grain-by-grain by Luke Nathan Hayes / Strange But True / Aura of Intelligence.
-Original project: https://github.com/auraofintelligence/grain-by-grain
+Based on micronova-and-excursions by Luke Nathan Hayes / Strange But True / Aura of Intelligence.
+Original project: https://github.com/auraofintelligence/micronova-and-excursions
 Used under the Strange But True Public Source Licence.
 
 ## 2. What You Cannot Do Without Permission
