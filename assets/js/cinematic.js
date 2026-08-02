@@ -13,6 +13,7 @@
   /* The reading order. Sitemap sits outside this rail. */
   const SEQUENCE = [
     { slug: 'home', file: 'index.html', label: 'Home' },
+    { slug: 'building', file: 'building.html', label: 'What is being built' },
     { slug: 'calm', file: 'calm.html', label: 'The quiet we were born into' },
     { slug: 'ordinary', file: 'ordinary.html', label: 'Catastrophe is ordinary' },
   { slug: 'settled', file: 'settled.html', label: 'The settled floor' },
