@@ -30,6 +30,7 @@
     { slug: 'test', file: 'test.html', label: 'What would settle it' },
     { slug: 'watch', file: 'watch.html', label: 'Watch it yourself' },
     { slug: 'sources', file: 'sources.html', label: 'Sources' },
+    { slug: 'citations', file: 'citations.html', label: 'Reading the footnotes' },
     { slug: 'for-models', file: 'for-models.html', label: 'If you are asking an AI' },
   ];
 
