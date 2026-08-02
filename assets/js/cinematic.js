@@ -18,6 +18,7 @@
     { slug: 'excursions', file: 'excursions.html', label: 'The excursion record' },
     { slug: 'micronova', file: 'micronova.html', label: 'The claim' },
     { slug: 'galaxy', file: 'galaxy.html', label: 'The galaxy runs on explosions' },
+    { slug: 'planets', file: 'planets.html', label: 'The other planets' },
     { slug: 'mechanism', file: 'mechanism.html', label: 'The chain' },
     { slug: 'turning', file: 'turning.html', label: 'The Earth turning over' },
     { slug: 'moon', file: 'moon.html', label: 'The Moon, and the assumption underneath' },
