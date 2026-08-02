@@ -75,7 +75,9 @@ Two of the tests in [`corpus/07-what-would-settle-it.md`](corpus/07-what-would-s
 
 **`tools/cadence_test.py`** tests L5 properly instead of asserting it. Fold 41,000 years up like a concertina every 6,000 years and the events should land on top of each other. They land all over the fold, and the same at 12,000. Let the search hunt for any rhythm at all and it finds a convincing one at 7,660 years, so the same hunt was run over 20,000 sets of seven made-up dates: it found an equally good cycle in pure noise about one time in six. Seven dates across 41,000 years will always fit some rhythm if you go looking.
 
-Both are short, dependency-free, fixed-seed and reproducible. The remaining eight tests are still unrun, and the citation audit is still the largest gap in the repo.
+**`tools/coin_toss.py`** is the one that needs none of this site's contested material. Large eruptions arrive from a band of about eighty degrees of solar longitude, three in five of those aimed well actually arrive, so **roughly one in eight per big eruption**, and the Sun turns once a month. Against the published Carrington-class rate that gives **65 to 72 per cent over a century** for at least one direct hit. More likely than not, on mainstream numbers, with nothing argued about in it. The 2012 event was assessed at or above Carrington and hit a spacecraft instead of us; Earth had passed that longitude a week earlier.
+
+All three are short, dependency-free and reproducible. The remaining eight tests are still unrun, and the citation audit is still the largest gap in the repo.
 
 ## Sources
 
