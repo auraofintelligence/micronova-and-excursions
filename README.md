@@ -17,7 +17,7 @@ The argument is usually conducted entirely on its weakest rung, and losing there
 | **L1** | Geomagnetic excursions happen | **Known** |
 | **L2** | The Sun does things far past anything we have measured | **Known** |
 | **L3** | The Sun's local environment changes enough to matter | **Known**, published 2024 |
-| **L4** | That can make a star like ours shed an outer layer | **Speculative** |
+| **L4** | That can make a star like ours shed an outer layer | **Speculative**, but not a void: six candidate triggers, one a published model, one needing no trigger at all |
 | **L5** | And it runs on a clean 6,000 or 12,000-year clock | **Disputed**, the weakest |
 
 L4 does not sit on top of L5. The books argue that any threshold-reaching change in the surroundings can set a star off, so a regular cycle is a convenience rather than a requirement. **Losing the cadence costs the mechanism nothing**, and treating "the micronova" and "the 12,000-year clock" as one claim gives the argument away for free.
