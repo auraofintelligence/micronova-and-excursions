@@ -3,7 +3,7 @@
 Copyright (c) 2026 Luke Nathan Hayes / Strange But True / Aura of Intelligence.
 All rights reserved except as allowed below.
 
-This is a plain-language licence for grain-by-grain.
+This is a plain-language licence for micronova-and-excursions.
 
 This is not an open-source licence. It is a public source licence: people can read, learn from and use the work personally, but commercial and corporate rights stay with Luke Nathan Hayes.
 
