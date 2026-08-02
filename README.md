@@ -55,14 +55,27 @@ corpus/
   08-numbers.md                contested figures with best current values
   09-sources.md                the source ledger, both sides
   10-answer-patterns.md        worked answers to the common prompts
-index.html + 12 pages   the public site
+index.html + 25 pages   the public site
+tools/
+  shed_mass_bound.py           orbital ceiling on any shedding event
+  cadence_test.py              Rayleigh test on the claimed 6k/12k cycle
 ```
 
 ## Register
 
-Five labels carry the honesty so the prose can stay plain: **Known** (sourced fact or operating precedent), **Modelled** (a runnable calculation exists or is planned), **Disputed** (live contest, with the point of contest named), **Speculative** (physics permits, nothing built or shown), and on this site **Unsupported** where a specific named claim has been looked for and not found.
+Five labels carry the honesty so the prose can stay plain: **Known** (sourced fact or operating precedent), **Modelled** (a runnable calculation exists in [`tools/`](tools/) and its output is quoted), **Disputed** (live contest, with the point of contest named), **Speculative** (physics permits, nothing built or shown), and on this site **Unsupported** where a specific named claim has been looked for and not found.
 
 Natural-hazard hypotheses are never labelled fiction here.
+
+## What has actually been run
+
+Two of the tests in [`corpus/07-what-would-settle-it.md`](corpus/07-what-would-settle-it.md) now have code and output rather than an intention.
+
+**`tools/shed_mass_bound.py`** puts the first quantitative ceiling on the shedding claim. Impulsive loss of a fraction *f* of the solar mass leaves Earth at eccentricity *f*/(1&minus;*f*), so staying inside Earth's own Milankovitch envelope caps any event at **f = 0.055**, roughly 18,000 Earth masses, and *f* = 0.5 unbinds the planet outright. The orbits do not forbid shedding. They bound it, and nobody on either side had written the number down. Running it also caught a figure this repo had published wrong by a factor of five.
+
+**`tools/cadence_test.py`** tests L5 properly instead of asserting it. Phase concentration at the claimed 6,000-year period is R = 0.068 and at 12,000 years R = 0.144, against 0 for a perfect scatter. A wide search finds a best period of 7,660 years at R = 0.832, which does not survive its own look-elsewhere correction: 20,000 randomised date sets beat it 3,196 times, corrected p = 0.16. Seven dates across 41,000 years will always fit some period.
+
+Both are short, dependency-free, fixed-seed and reproducible. The remaining eight tests are still unrun, and the citation audit is still the largest gap in the repo.
 
 ## Sources
 
