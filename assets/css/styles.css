@@ -148,6 +148,9 @@ main, section, article, div, p, h1, h2, h3, span, a { min-width: 0; }
 .hero-image img { width: 100%; height: 100%; object-fit: cover; opacity: .38; filter: saturate(1.15) contrast(1.05); }
 .hero-image::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(5,7,11,.94) 0%, rgba(11,18,32,.7) 48%, rgba(11,18,32,.34) 100%), linear-gradient(0deg, rgba(5,7,11,.96), transparent 48%); }
 .hero-canvas { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; }
+/* Solar system hero animation, by Codex, lifted from GAJRA-earth-infinity.
+   Honours prefers-reduced-motion and the --motion custom property. */
+.hero { position: relative; isolation: isolate; }
 .hero-content { width: min(100%, var(--max)); margin: 0 auto; }
 .eyebrow { margin: 0 0 .85rem; color: var(--sun); font-family: var(--font-mono); font-size: .8rem; font-weight: 640; letter-spacing: .22em; text-transform: uppercase; }
 h1, h2, h3 { letter-spacing: -.005em; }
