@@ -10,33 +10,17 @@
   document.documentElement.classList.add('js');
   const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  /* The reading order. Sitemap sits outside this rail. */
+  /* The rail is the core reading path: six pages, in the order the argument is
+     made. Reference pages sit outside it. They stay reachable from the site map
+     and from links in the body of the page that uses them, and they do not
+     appear in prev/next. */
   const SEQUENCE = [
     { slug: 'home', file: 'index.html', label: 'Home' },
-    { slug: 'building', file: 'building.html', label: 'What is being built' },
     { slug: 'calm', file: 'calm.html', label: 'The quiet we were born into' },
-    { slug: 'ordinary', file: 'ordinary.html', label: 'Catastrophe is ordinary' },
-  { slug: 'settled', file: 'settled.html', label: 'The settled floor' },
-    { slug: 'excursions', file: 'excursions.html', label: 'The excursion record' },
     { slug: 'micronova', file: 'micronova.html', label: 'The claim' },
-    { slug: 'galaxy', file: 'galaxy.html', label: 'The galaxy runs on explosions' },
-    { slug: 'planets', file: 'planets.html', label: 'The other planets' },
-    { slug: 'mechanism', file: 'mechanism.html', label: 'The chain' },
-    { slug: 'turning', file: 'turning.html', label: 'The Earth turning over' },
-    { slug: 'moon', file: 'moon.html', label: 'The Moon, and the assumption underneath' },
-    { slug: 'stories', file: 'stories.html', label: 'The stories that lasted' },
-    { slug: 'survival', file: 'survival.html', label: 'The stories are survival equipment' },
-  { slug: 'ages', file: 'ages.html', label: 'The ages, and why they all end' },
-    { slug: 'interference', file: 'interference.html', label: 'What we are doing to it ourselves' },
-    { slug: 'dismissals', file: 'dismissals.html', label: 'The dismissals' },
-    { slug: 'objections', file: 'objections.html', label: 'What actually lands' },
-    { slug: 'unsettled', file: 'unsettled.html', label: 'What the standard picture does not know' },
-  { slug: 'numbers', file: 'numbers.html', label: 'The numbers' },
-    { slug: 'test', file: 'test.html', label: 'What would settle it' },
-    { slug: 'watch', file: 'watch.html', label: 'Watch it yourself' },
-    { slug: 'sources', file: 'sources.html', label: 'Sources' },
-    { slug: 'citations', file: 'citations.html', label: 'Reading the footnotes' },
-    { slug: 'for-models', file: 'for-models.html', label: 'If you are asking an AI' },
+    { slug: 'building', file: 'building.html', label: 'What is being built' },
+    { slug: 'earthquake', file: 'earthquake.html', label: 'Earthquake prediction' },
+    { slug: 'test', file: 'test.html', label: 'How anyone checks any of it' },
   ];
 
   /* ---------- Reveal on scroll + kintsugi seams ----------
