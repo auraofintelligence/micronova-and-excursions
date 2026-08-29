@@ -1,5 +1,31 @@
 # Micronova and Excursions
 
+<!-- github-organisation:start -->
+
+## Project links and history
+
+- First substantive build: 1 August 2026.
+- GitHub repository: [micronova-and-excursions](https://github.com/auraofintelligence/micronova-and-excursions).
+- Public site: [visit the public site](https://auraofintelligence.github.io/micronova-and-excursions/).
+
+## Related public projects
+
+Each link below reflects an evidenced family, lineage or direct connection. This project has 6 relevant public connections.
+
+### Direct and other supported connections
+
+- [grain-by-grain](https://github.com/auraofintelligence/grain-by-grain) - [public page](https://auraofintelligence.github.io/grain-by-grain/) - explicit cross-reference.
+
+### Space-weather and cosmic research tools
+
+- [extreme-matter-atlas](https://github.com/auraofintelligence/extreme-matter-atlas) - [public page](https://auraofintelligence.github.io/extreme-matter-atlas/) - shared research architecture.
+- [gods-eye-view](https://github.com/auraofintelligence/gods-eye-view) - [public page](https://www.spatialintelligence.ai/) - shared research architecture.
+- [space-weather-news](https://github.com/auraofintelligence/space-weather-news) - [public page](https://auraofintelligence.github.io/space-weather-news/) - explicit cross-reference, shared research architecture.
+- [strange-but-true-cosmic-nexus](https://github.com/auraofintelligence/strange-but-true-cosmic-nexus) - [public page](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/) - shared research architecture.
+- [virtual-solar-swarm](https://github.com/auraofintelligence/virtual-solar-swarm) - [public page](https://auraofintelligence.github.io/virtual-solar-swarm/) - shared research architecture.
+
+<!-- github-organisation:end -->
+
 **The quiet is the anomaly.** Everything anyone calls normal happened inside one still stretch of about twelve thousand years. Against the record the planet keeps of itself, that stretch is the interruption, not the rule.
 
 This repo makes one argument in four moves, and builds toward one first deliverable.
